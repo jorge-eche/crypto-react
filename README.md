@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of the project](./public/portfolio/portfolio-screenshot.png)
+![Screenshot of the project](./src/img/crypto-screenshot.png)
 
 ### Links
 
