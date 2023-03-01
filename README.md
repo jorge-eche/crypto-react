@@ -39,31 +39,30 @@ Users should be able to:
 
 ### Built with
 
-- [Create React App](https://create-react-app.dev/) - React environment
+- [React](https://reactjs.org/) - JS library
+- [Vite]([https://create-react-app.dev/](https://vitejs.dev/)) - React environment
+- [Styled Components](https://styled-components.com/) - For styles
+- [CryptoCompare](https://www.cryptocompare.com/) - For the Toplist by Market Cap Full Data API
+- [Tobias Ahlin Spinkit](https://tobiasahlin.com/spinkit/) - For the Spinner
 - Semantic HTML5 markup
 - Flexbox
-- Desktop-first workflow
-- [EmailJS](https://www.emailjs.com/) - For the Contact Form API
-- [Styled Components](https://styled-components.com/) - For styles
-- [React](https://reactjs.org/) - JS library
+- Mobile-first workflow
 
 ### What I learned
 
-- On this project I learned how powerful Styled Components can be. You can basically forget about the class names and making the vanilla CSS a mess. Styled Components lets you relax and put all the energy on the design, forgetting about the tricky nature of CSS class names when building a big-enough website.
-- On the other hand though, and to my surprise, Styled Components also has its tricky nature too, as the HTLM part of the jsx files can get a bit confusing with all the Styled Components components you built and sometimes you have to remind yourself what kind of tag this or that component had, which can also be annoying.
-- REST API are one of the most useful tools when building websites. EmailJS is a REST API that made my life easier when creating the contact form. It sends the information completed by the client in the form onto my Gmail account. After some initial set up it started to work wonderfully and best of all: for free!
+- I could have added more than 10 cryptos or more than 5 currencies for comparison, but I think it really does not add much on functionality terms to the application, so I decided to stick to small numbers for simplicity.
+- REST APIs are so useful, there is no limit for what they can do for you and how easy it is to implement them in your projects. From face recognition APIs to cryptos quoting, your creativity and imagination are the limit here.
+- This is the first project I used Styled Components. I found it very useful as it removes vanilla CSS' specificity problems. I also liked the idea of not having CSS files all over my IDE so I will continue using it for future works. On the cons side, it can get a bit messy to read JSX files with so many custom styled components and this gets worse as the React components gets more complex.
+- How to use Spinners while the page is fetching the API data.
 
 ### If I had more time I would change this
 
-- Definitely, the first thing I will add to my future portfolio is page routing, be it React Router or Next.js. I was learning React Router by the time my portfolio was almost finished and I was super excited to start looking for a job, so I decided to leave it as it was in order to start the job search. Nonetheless, I will only find peace of mind after I add this feature to my next portfolio.
-- I would also like my Styled Components to be a little bit more organized. Maybe, for example, 'extending' components so to achieve a shortening of the CSS code.
-- Testing, testing and more testing.
+- As I said in previous READMEs: Testing, testing and more testing.
+- Other than that, I am more than happy with the website and it does its job very well.
 
 ### Continued development
 
-I am very happy this project let me explore Styled Components and in the next one I have the choice of either try something different like Tailwind or deepen my Styled Componens' current knowledge, in order to achieve a better-looking design code.
-At the moment, I am building a fullstack MERN application. Even though I am not aiming to work in the backend, it will give me well-needed exposure to Node.js, Express.js and PostgreSQL.
-Afterwards, I will come back full-on to my frontend development studies and I think Testing and TypeScript are a must!
+After this website I am going to start building my Portfolio and leave theory a little bit to the side. After my Portfolio is finished I am planning to study Testing and TypeScript.
 
 ## Author
 
