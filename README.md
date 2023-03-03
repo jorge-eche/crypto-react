@@ -1,6 +1,6 @@
 # Cryptocurrency price comparison application.
 
-Website that compares the price of different currencies with the 10 most important cryptos with the help of RESTful API.
+Website that compares the price of different currencies with the 10 most important cryptos with the help of a RESTful API.
 
 ## Table of contents
 
