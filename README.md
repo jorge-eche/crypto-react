@@ -40,11 +40,11 @@ Users should be able to:
 ### Built with
 
 - [React](https://reactjs.org/) - JS library
-- [Vite]([https://create-react-app.dev/](https://vitejs.dev/)) - React environment
+- [Vite](https://vitejs.dev/) - React environment
 - [Styled Components](https://styled-components.com/) - For styles
 - [CryptoCompare](https://www.cryptocompare.com/) - For the Toplist by Market Cap Full Data API
 - [Tobias Ahlin Spinkit](https://tobiasahlin.com/spinkit/) - For the Spinner
-- Semantic HTML5 markup
+- [Semantic HTML5 markup](https://www.w3.org/html/) - For the web structure
 - Flexbox
 - Mobile-first workflow
 
