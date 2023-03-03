@@ -41,6 +41,7 @@ Users should be able to:
 
 - [React](https://reactjs.org/) - JS library
 - [Vite](https://vitejs.dev/) - React environment
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Language
 - [Styled Components](https://styled-components.com/) - For styles
 - [CryptoCompare](https://www.cryptocompare.com/) - For the Toplist by Market Cap Full Data API
 - [Tobias Ahlin Spinkit](https://tobiasahlin.com/spinkit/) - For the Spinner
